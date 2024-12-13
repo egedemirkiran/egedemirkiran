@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">18 y/o software developer with a keen interested in TypeScript and Rust</h4>
+<h4 align="center">19 y/o software developer with a keen interested in TypeScript and Rust</h4>
 
 ###
 
